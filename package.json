@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/JeongyunCho/Cho_Jeongyun_HW5_AutoApp/issues"
   },
-  "homepage": "https://github.com/JeongyunCho/Cho_Jeongyun_HW5_AutoApp#readme"
+  "homepage": "https://github.com/JeongyunCho/Cho_Jeongyun_HW5_AutoApp#readme",
+  "keywords": [
+    "cho_lee_autoapp"
+  ]
 }
