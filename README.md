@@ -1,16 +1,9 @@
 # Cho Jeongyun Lee Changseok Interactive AutoApp
 
-The basis of this assignment is to create an interactive application(i.e. youtube, netflix) using 3D, video,
-audio and still images. 
+The basis of this assignment is to create an interactive application using 3D, video,
+audio and still images. Design and develop an engaging experience for the end user
+with which they can view video, explore specs, etc for a car.
 
-## Brand Design
-###  Roku ‘Flashback’ microsite
-
-The Flashback app is part of the Roku streaming service. Subscribers can use this app to
-access three separate flashback features; movies, television (tv) and music. Each of these three
-sections are comprised exclusively of entertainment from 1950, 1960, 1970, 1980, and 1990
-respectively.  
-One of Flashback's main usability features is the demarcation of the user profile... 
 
 ### Prerequisites
 
